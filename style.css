@@ -1,0 +1,118 @@
+/*****************Tag Selector**********************/
+
+body{
+  background-color:#F6A9A9;
+  margin: 0px;
+  text-align: center;
+
+}
+hr{
+  height:0px;
+  width:10%;
+  color: white;
+  border-style: hidden;
+  border-top:  dotted ;
+  
+  border-width: 6px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+
+}
+
+h2{    margin-top: 0px;
+    margin-bottom: 0px;}
+p{
+  margin: 0px;
+}
+
+
+/*****************Class Selector******************/
+.container{
+  background-color:#F67280;
+  height:700px;
+  width:100%;
+  padding-top:100px;
+}
+
+.mountain{
+  background-color:#F67280;
+}
+
+.clouddiv3{
+  height: 150px;
+  width: 200px;
+}
+
+.cloudimg{
+  height: 130px;
+  width: 200px;
+}
+
+.profile{
+  background-color: #C06C84;
+}
+
+.skills{
+  background-color: #6C5B7B;
+}
+
+.bottom-container{
+  background-color: #355C7D;
+}
+
+
+/****************Id Selector*********************/
+
+#div1{
+  background-color: #F67280;
+
+}
+
+#div2{
+  position: relative;
+    top: 120px;
+}
+
+#cloud1{
+  position: absolute;
+top: 150px;
+left: 30%;
+}
+#cloud2{
+  position: absolute;
+    right:30%;
+    top: 200px;
+}
+
+#h1name{
+  width:50%;
+  height: 50px;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive , serif;
+  font-size: 60px;
+}
+
+#h3subname{
+   margin:6px;
+   font-family: 'Pacifico', cursive;
+
+}
+
+#profileimg{
+  height: 300px;
+  width: 300px;
+  padding-top: 50px;
+
+}
+
+
+#cimg{
+  height: 150px;
+  width:150px;
+}
+
+#javaimg{
+  height: 150px;
+  width:150px;
+}
