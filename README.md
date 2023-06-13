@@ -15,10 +15,10 @@
 
 <h3 align="left">Reach me out:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/pratik bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik bera" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pratik bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pratik bera" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pratikbera_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pratikbera_c" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pratikbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratikbera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratik-bera-214953218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik bera" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22064736/pratik-bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pratik bera" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pratikbera_c?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pratikbera_c" height="30" width="40" /></a>
+<a href="https://leetcode.com/pratikbera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratikbera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
