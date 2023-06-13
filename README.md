@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pratik Bera</h1>
+![logo](https://github.com/Pratik-Bera/Pratik-Bera/blob/main/banner.png)
 <h3 align="center">A Passionate Programmer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💼 Currently working on **Java enterprise solutions**
 
